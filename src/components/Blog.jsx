@@ -6,6 +6,9 @@ import CardMedia from "@mui/material/CardMedia";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import img from "./ma.PNG";
+import Test from "./Test";
+
+
 
 const Blog = () => {
   return (
@@ -25,17 +28,8 @@ const Blog = () => {
         experts, project developers, and more.
       </p>
       <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      
+      <Test/>
     </div>
   );
 };

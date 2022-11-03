@@ -6,6 +6,7 @@ import HomeNavbar from "../components/HomeNavbar";
 import Blog from "../components/Blog";
 import ibizatoken from "../components/ibizatokenmagzine";
 import Hero from "../components/HeroSection";
+
 const IBIZAMAIN = () => {
   return (
     <div>
